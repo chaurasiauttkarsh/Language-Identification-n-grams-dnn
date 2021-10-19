@@ -1,5 +1,7 @@
 # Language-Identification-n-grams-dnn
 
+Github: https://github.com/chaurasiauttkarsh/Language-Identification-n-grams-dnn
+
 Dense Neural Network is trained on character level n-grams to build langauge identification model.</br>
 
 WiLI-2018, the Wikipedia language identification benchmark dataset, contains 235000 paragraphs of 235 languages. Each language in this dataset contains 1000 rows/paragraphs. The following is the subset of dataset used:
